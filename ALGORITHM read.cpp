@@ -17,6 +17,6 @@ int j(string str)
     str:= str.concat('.');
 
     write("my new sentence is"  : str);
-    end 
+    end ;
 
 
